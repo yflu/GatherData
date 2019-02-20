@@ -1,0 +1,9 @@
+/.idea
+/target
+/build
+/logs
+*.iml
+/*/.idea
+/*/target
+/*/build
+/*/*.iml
